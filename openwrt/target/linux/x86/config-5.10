@@ -1,3 +1,4 @@
+# Flag
 # CONFIG_60XX_WDT is not set
 # CONFIG_64BIT is not set
 CONFIG_ACPI=y
